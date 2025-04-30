@@ -417,6 +417,7 @@ footer {
   .logo {
     order: 2;
     margin: 0 auto;
+    display:none;
   }
 
   .menu-toggle {
